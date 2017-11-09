@@ -1,0 +1,65 @@
+/* MEDIA QUERIES */
+
+/* GUIDELINES BORDER - ERASE IT LATER 
+
+.red-b{border: 2px outset red;}
+.blue-b{border: 2px outset blue;}
+.yellow-b{border: 2px outset yellow;}
+.green-b{border: 2px outset green;}
+.purple-b{border: 2px outset purple;}
+.orange-b{border: 2px outset orange;}
+.pink-b{border: 2px outset pink;}
+.white-b{border: 2px outset white;}
+
+*/
+
+
+
+
+@media only screen and (min-width: 576px) { 
+	
+	.content h1{
+		font-size:10vw;
+	}
+
+	.content h2{
+		font-size:4.2vw;
+		padding:0 40px;
+	}
+
+	.content p{
+		font-size:4vw;
+	}
+}
+
+@media only screen and (min-width: 768px) { 
+	
+
+}
+
+
+@media only screen and (min-width: 992px) { 
+	
+	.content h1{
+		font-size:6em;
+	}
+
+	.content h2{
+		font-size:2em;
+		padding:0 40px;
+	}
+
+	.content p{
+		font-size:1.8em;
+	}
+
+
+}
+
+
+@media only screen and (min-width: 1200px) { 
+
+}
+ @media only screen and (min-width: 1366px) { 
+
+}
